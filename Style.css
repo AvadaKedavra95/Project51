@@ -1,0 +1,65 @@
+h1{
+    border: outset;
+    text-align: center;
+    font-family: 'Ravie', cursive;
+    text-shadow: 2px 3px 1px white;
+    color: crimson;
+    font-size:400%;
+   border-radius: 300px;
+   border-width: 10px;
+   border-color: rgba(0, 0, 0, 0.475);
+    
+
+}
+
+h2 {
+    
+    
+    text-shadow: 3px;
+    font-family: 'Indie Flower', cursive;
+    text-shadow: 2px 3px 1px white;
+    font-size:200%;
+    padding-top: 100px;
+    
+    
+}
+
+p {
+    
+    text-align: end;
+    text-shadow: 3px;
+    font-family: 'Indie Flower', cursive;
+    text-shadow: 2px 3px 1px white;
+    font-size:400%;
+    padding-top: 100px;
+    color:red
+    
+    
+}
+
+
+
+
+body {
+    background-color: #ffa000;
+    margin: 0px;
+    
+}
+
+
+.grid{
+    display : flex;
+    flex-wrap : wrap;
+    justify-self : space-evenly;
+    background-color: #ff0000;
+    
+  
+    
+
+}
+
+.item{
+    padding: 100px;
+}
+
+
